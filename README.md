@@ -1,6 +1,6 @@
 # Cordilleran TSG Releases
 
-Official Android builds for Cordilleran TSG.
+Official Android builds for the Digitalized Learning Platform of the "Digitalization of Cordilleran Sports and Games with AI Analytics" Project.
 
 ## Install
 
@@ -25,3 +25,11 @@ Example `version.json`:
 ```
 
 Bump the Bundle Version Code in Unity before every build and always sign with the same keystore.
+
+## App Versions
+
+### AB Testing Version
+[Download Build](https://github.com/hadidi404/cordilleran-tsg-releases/releases/download/1.4-ab/CordilleranTSG-AB-0.1.0-10.apk)   
+
+This version of the app contains two versions of screen layouts and/or input controls for each of the 3 games inside it where the player must choose a version to test.
+
